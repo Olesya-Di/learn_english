@@ -1,0 +1,34 @@
+.card {
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: 100%;
+    justify-content: center;
+}
+
+.card__content {
+    box-shadow: 5px 5px 20px #FFB272;
+    flex-basis: 25%;
+    padding: 2% 1%;
+    margin: 1%;
+}
+
+.card__content:hover {
+    box-shadow: 5px 5px 30px #fd9d4d;
+}
+
+.card__content__img {
+    width: 200px;
+    height: 140px;
+}
+
+.card__content__button {
+    width: 80px;
+    height: 25px;
+    background-color: #FFE2CA;
+    border: #FFD8B7;
+    box-shadow: 5px 5px 15px #FFB272;
+}
+
+.card__content__button:hover {
+    box-shadow: 5px 5px 5px #FFB272;
+}

@@ -1,0 +1,58 @@
+ [{
+            "num": 1,
+            "img": "../img/come.jpg",
+            "word": "COME",
+            "transcription": "[kʌm]",
+            "translation": "приходить"
+        },
+        {
+            "num": 2,
+            "img": "../img/friend.jpg",
+            "word": "FRIEND",
+            "transcription": "[frend]",
+            "translation": "друг"
+        },
+        {
+            "num": 3,
+            "img": "../img/go.jpg",
+            "word": "GO",
+            "transcription": "[gəʊ]",
+            "translation": "идти"
+        },
+        {
+            "num": 4,
+            "img": "../img/good.jpg",
+            "word": "GOOD",
+            "transcription": "[gʊd]",
+            "translation": "хороший"
+        },
+        {
+            "num": 5,
+            "img": "../img/look.jpg",
+            "word": "LOOK",
+            "transcription": "[lʊk]",
+            "translation": "смотреть"
+        },
+        {
+            "num": 6,
+            "img": "../img/some.jpg",
+            "word": "SOME",
+            "transcription": "[sʌm]",
+            "translation": "некоторые"
+        },
+        {
+            "num": 7,
+            "img": "../img/see.jpg",
+            "word": "SEE",
+            "transcription": "[si]",
+            "translation": "видеть"
+        },
+        {
+            "num": 8,
+            "img": "../img/take.jpg",
+            "word": "TAKE",
+            "transcription": "[teɪk]",
+            "translation": "брать"
+        }
+    ]
+
